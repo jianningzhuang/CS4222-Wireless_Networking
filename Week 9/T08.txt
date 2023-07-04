@@ -1,0 +1,77 @@
+Q1 Birthday Problem
+
+a) 17 students in tutorial, probability 2 students have same birthday
+
+1 - P(all different birthday)
+1 - 365*364*...(365-17+1)/365^17 = ~0.315
+
+b) 141 students, probability no same birthday
+
+365*364*...(365-141+1)/365^141 = ~2.3x10^-14 v small
+
+Q2 whitespace freq in unused part of TV spectrum
+
+better propogation due to lower freq
+less inteference from other wireless devices
+improve capacity, alleviate congestion
+
+
+Q3 time slotted neighbour discovery
+
+a) time slot 200ms, wake up with probability of 0.1, average time for 2 nodes to select a common slot to wake
+
+P(wake up same time slot) = 0.1 x 0.1 = 0.01
+Expected time slots = 1/P(wake up same slot) = 100
+average time = 100x200ms = 20s
+
+b) beacon transmission to announce node presence transmitted at beginning and end of active time slot.
+Should transmission be performed more often to increase chance of discovery
+
+may improve discovery when num nodes small
+
+freq collisions when num nodes large
+
+Q4 air quality sensors
+
+lifetime => battery => 5-10 years
+
+data rate => few bytes per reading, infrequent => <10kbps 
+
+wireless network => transmit distant gateway => range 2-5km => LP-WAN
+
+LoRa 15km range, low power consumption, 100kbps
+
+
+b) 2-FSK vs LoRa
+
+LoRa high range and robust, unlicensed band, existing infrastructure easily reused
+
+2-FSK straightforward, widespread among radio chipset, higher throughput
+
+3MHz
+
+2-FSK => 3MHz/125kHz = 24 sensors
+
+LoRa => orthoganal spreading factors, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

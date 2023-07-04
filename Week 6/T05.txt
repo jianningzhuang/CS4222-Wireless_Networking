@@ -1,0 +1,41 @@
+Q1
+
+time difference taudio - tradio = d/v - d/c (d/c = 0 approximately) = 0.028s
+
+audio timestamp same from C2 and C3 => y coordinate is 5 (middle)
+
+d = 0.028s x 300m/s = 8.4
+x^2 + y^2 = 8.4^2
+x = sqrt(8.4^2 - 5^2) = 6.75
+
+Q2
+
+angle
+
+tangent = b/a
+
+Q3
+
+app tracks location using GPS
+GPS consumes 400mW
+accelerometer consumes 5mW
+user mostly stationary when using app
+
+energy efficient and accurate outdoor location tracker
+
+1. use accelerometer as trigger to detect motion
+2. wake GPS only if motion is detected
+3. use accelerometer to estimate small changes in location and rely less on GPS (can still be accurate)
+
+
+Q4
+
+ALOHA 18% max channel utilisation
+slotted ALOHA 36% max chanel utilisation
+CSMA/CA higher utilisation
+
+CSMA/CA collision avoidance => reduces collision significantly by transmitting only when channel is idle (carrier sensing)
+collision detection overhead < packet retransmission overhead
+
+
+

@@ -1,0 +1,95 @@
+From the output of etimer-buzzer.c, note down the value of CLOCK_SECOND. 
+Find out how many clock ticks corresponds to 1s in real time.
+
+The value of CLOCK_SECOND is 128
+
+clock_time_t t is %ld => increase in multiples of 128
+
+38 tick 0.296 second overhead
+166 ticks 1.296s
+294 ticks 2.296s
+422 ticks 3.296s
+...
+
+clock ticks per second is 128
+
+
+From the output of rtimer-lightSensor.c. note down the value of RTIMER_SECOND. 
+Find out how many clock ticks corresponds to 1s in real time.
+
+LightSensor => every 32 ticks
+
+The value of RTIMER_SECOND is 65536
+The value of timeout_rtimer is 16384 => 0.25s 4Hz
+
+38 tick 0.296 second overhead
+70 ticks 0.546s
+102 ticks 0.796s
+134 ticks 1.046s
+166 ticks 1.296s
+198 ticks 1.546s
+230 ticks 1.796s
+
+clock ticks per second is 128
+
+
+
+IMUSensor =>  every 
+
+The value of RTIMER_SECOND is 65536
+The value of timeout_rtimer is 3276 => 0.05s 20Hz
+
+IMU data analysis
+
+flat on table:
+Gyro X = -1.40 to -1.10 deg/s
+Gyro Y = 1.30 to 1.80 deg/s
+Gyro Z = -0.20 to 0.10 deg/s
+
+AccX = 0.01 to 0.03 G
+AccY = 0.01 to 0.03 G
+AccZ = -0.95 to -0.90 G
+
+up down movement: (Z)
+
+AccX = 0.20 to 0.40 G
+AccY = -0.40 to -0.20 G
+AccZ = -2.00 to 1.20 G
+
+left right movement: cable to right (X)
+
+AccX = -1.50 to 1.50 G
+AccY = -0.40 to -0.20 G
+AccZ = -0.90 to -0.50 G
+
+forward back movement: (Y)
+
+AccX = 0.20 to 0.40 G
+AccY = -1.50 to 1.50 G
+AccZ = -0.90 to -0.50 G
+
+To make own app:
+1. create new directory in /examples
+2. copy Makefile and change CONTIKI_PROJECT = etimer-buzzer rtimer-lightSensor rtimer-IMUSensor
+3. create .c file
+4. compile
+
+sudo make TARGET=cc26x0-cc13x0 BOARD=sensortag/cc2650 PORT=/dev/ttyACM0 <c file name without .c>
+
+Binary Image is <c file name>.cc26x0-cc13x0
+
+Open UniFlash and detect board
+
+Choose CC2650F128 device and Texas Instruments XDS110 USB Debug Probe
+
+Need to select All Files to see <c file name>.cc26x0-cc13x0 (default Custom Files)
+
+Load Image and check success message
+
+Install Realterm and follow settings (every time) to see output
+
+Display: Choose Ansi (default All Chars of Ascii), check newLine mode, change Rows to 40
+Port: baudrate = 115200 and choose same UART port in Device Manager (COM6 for now)
+Press Change and select Open
+
+Press reset button on SensorTag and verify output

@@ -1,0 +1,102 @@
+Q1 battery capacity of common devices
+
+Galaxy S23 => 2900mAh
+iPhone 14 Pro Max => 4323 mAh
+airpods => 49.7 mAh
+apple watch Ultra => 542 mAh
+MacBook Pro M2 => 58.2 Wh
+
+what people are concerned is actual battery life in terms of time
+
+Q2 
+
+a) which chipset more suitable for IoT applications
+
+Chipset 1 better in low power wireless sensor network
+
+lesser current draw per state
+faster switching time between states
+
+
+b) operate at low duty cycle < 0.01%, which state would you reduce current from
+
+for each second, active for 0.0001s, idle for 0.9999s
+
+current consumed (TX/RX) = 10mA x 0.0001 = 10^-6 A
+current consumed (IDLE) = 0.1mA x 0.9999 = 10^-4
+
+IDLE component still larer
+reduce current drawn from IDLE state
+
+Q3
+
+
+a) energy to transmit 1 bit
+
+P = VI
+E = Pt
+for 1 bit to transmit => 1/bps
+energy = Pt = VI x 1/bps
+
+Bluetooth => 0.09 microJ
+
+b) always choose low Tx Energy tech for low power IoT?
+
+No, depends on application type
+
+if lot of data to transfer, go for lowest energy per bit (WiFi)
+if idle period dominates and data transferred is low, choose ZigBee, BLE or Backscatter
+if operation on small batteries or energy harvesting, choose Backscatter
+if high range, choose LoRa 
+
+c) criteria crucial in low power IoT
+
+ability to switch states quickly
+form factor e.g size of antenna
+max current draw with limited battery
+ability to form network
+
+d) Bluetooth application
+
+sufficiently high data rate => 2Mbps
+short range => 10m
+low battery constraints
+
+most smart devices
+
+e) LoRa
+
+low data rate => 30kbps
+long range => 500m
+low duty cycle, in ISM band regulations
+
+still in research phase, starting deployment
+
+transmit small sensor data
+smart industrial control
+healthcare
+agriculture
+
+f) Backscatter
+
+minimal power draw => microWatts
+frequent transmission
+compact form factor => card, sticker
+harvest ambient energy
+
+agriculture
+RFID
+
+
+
+
+
+
+
+
+
+
+
+
+
+

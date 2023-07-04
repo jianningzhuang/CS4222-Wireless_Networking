@@ -1,0 +1,627 @@
+Send seq# 45  @     4927 ticks    38.492
+Received neighbour discovery packet 63 with rssi 65499 from 41217
+Send seq# 46  @     4940 ticks    38.593
+ Sleep for 8 slots
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 32772
+[INFO: Main      ] Link-layer address: 0012.4b00.1322.8004
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 32772 will be sending packet of size 12 Bytes
+Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+Send seq# 2  @       50 ticks     0.390
+ Sleep for 5 slots
+Send seq# 3  @      178 ticks     1.390
+Send seq# 4  @      191 ticks     1.492
+ Sleep for 8 slots
+Send seq# 5  @      396 ticks     3.093
+Send seq# 6  @      409 ticks     3.195
+ Sleep for 1 slots
+Send seq# 7  @      434 ticks     3.390
+Send seq# 8  @      447 ticks     3.492
+ Sleep for 12 slots
+Send seq# 9  @      754 ticks     5.890
+Send seq# 10  @      767 ticks     5.992
+ Sleep for 16 slots
+Send seq# 11  @     1177 ticks     9.195
+Send seq# 12  @     1189 ticks     9.289
+ Sleep for 17 slots
+Send seq# 13  @     1625 ticks    12.695
+Send seq# 14  @     1637 ticks    12.789
+ Sleep for 3 slots
+Send seq# 15  @     1714 ticks    13.390
+Send seq# 16  @     1727 ticks    13.492
+ Sleep for 16 slots
+Send seq# 17  @     2137 ticks    16.695
+Send seq# 18  @     2149 ticks    16.789
+ Sleep for 0 slots
+Send seq# 19  @     2150 ticks    16.796
+Send seq# 20  @     2162 ticks    16.890
+ Sleep for 11 slots
+Send seq# 21  @     2444 ticks    19.093
+Send seq# 22  @     2457 ticks    19.195
+ Sleep for 5 slots
+Send seq# 23  @     2585 ticks    20.195
+Send seq# 24  @     2597 ticks    20.289
+ Sleep for 14 slots
+Send seq# 25  @     2956 ticks    23.093
+Send seq# 26  @     2969 ticks    23.195
+ Sleep for 15 slots
+Send seq# 27  @     3353 ticks    26.195
+Send seq# 28  @     3365 ticks    26.289
+ Sleep for 17 slots
+Send seq# 29  @     3801 ticks    29.695
+Send seq# 30  @     3813 ticks    29.789
+ Sleep for 12 slots
+Send seq# 31  @     4121 ticks    32.195
+Send seq# 32  @     4133 ticks    32.289
+ Sleep for 2 slots
+Send seq# 33  @     4185 ticks    32.695
+Send seq# 34  @     4197 ticks    32.789
+ Sleep for 2 slots
+Send seq# 35  @     4249 ticks    33.195
+Send seq# 36  @     4261 ticks    33.289
+ Sleep for 3 slots
+Send seq# 37  @     4338 ticks    33.890
+Send seq# 38  @     4351 ticks    33.992
+ Sleep for 2 slots
+Send seq# 39  @     4402 ticks    34.390
+Send seq# 40  @     4415 ticks    34.492
+ Sleep for 11 slots
+Send seq# 41  @     4697 ticks    36.695
+Send seq# 42  @     4709 ticks    36.789
+ Sleep for 14 slots
+Send seq# 43  @     5068 ticks    39.593
+Send seq# 44  @     5081 ticks    39.695
+ Sleep for 6 slots
+Send seq# 45  @     5234 ticks    40.890
+Send seq# 46  @     5247 ticks    40.992
+ Sleep for 11 slots
+Send seq# 47  @     5529 ticks    43.195
+Send seq# 48  @     5541 ticks    43.289
+ Sleep for 0 slots
+Send seq# 49  @     5542 ticks    43.296
+Send seq# 50  @     5554 ticks    43.390
+ Sleep for 0 slots
+Send seq# 51  @     5555 ticks    43.398
+Send seq# 52  @     5567 ticks    43.492
+ Sleep for 0 slots
+Send seq# 53  @     5568 ticks    43.500
+Send seq# 54  @     5580 ticks    43.593
+ Sleep for 6 slots
+Send seq# 55  @     5733 ticks    44.789
+Received neighbour discovery packet 116 with rssi 65504 from 41217
+Send seq# 56  @     5746 ticks    44.890
+ Sleep for 13 slots
+Send seq# 57  @     6079 ticks    47.492
+Send seq# 58  @     6092 ticks    47.593
+ Sleep for 17 slots
+Send seq# 59  @     6527 ticks    50.992
+Send seq# 60  @     6540 ticks    51.093
+ Sleep for 11 slots
+Send seq# 61  @     6821 ticks    53.289
+Send seq# 62  @     6834 ticks    53.390
+ Sleep for 10 slots
+Send seq# 63  @     7090 ticks    55.390
+Send seq# 64  @     7103 ticks    55.492
+ Sleep for 14 slots
+Send seq# 65  @     7461 ticks    58.289
+Send seq# 66  @     7474 ticks    58.390
+ Sleep for 8 slots
+Send seq# 67  @     7679 ticks    59.992
+Send seq# 68  @     7692 ticks    60.093
+ Sleep for 15 slots
+Send seq# 69  @     8076 ticks    63.093
+Send seq# 70  @     8088 ticks    63.187
+ Sleep for 16 slots
+Send seq# 71  @     8498 ticks    66.390
+Send seq# 72  @     8511 ticks    66.492
+ Sleep for 17 slots
+Send seq# 73  @     8946 ticks    69.890
+Send seq# 74  @     8959 ticks    69.992
+ Sleep for 17 slots
+Send seq# 75  @     9394 ticks    73.390
+Send seq# 76  @     9407 ticks    73.492
+ Sleep for 15 slots
+Send seq# 77  @     9791 ticks    76.492
+Send seq# 78  @     9804 ticks    76.593
+ Sleep for 7 slots
+Send seq# 79  @     9983 ticks    77.992
+Send seq# 80  @     9996 ticks    78.093
+ Sleep for 1 slots
+Send seq# 81  @    10021 ticks    78.289
+Send seq# 82  @    10034 ticks    78.390
+ Sleep for 16 slots
+Send seq# 83  @    10444 ticks    81.593
+Send seq# 84  @    10456 ticks    81.687
+ Sleep for 0 slots
+Send seq# 85  @    10457 ticks    81.695
+Received neighbour discovery packet 147 with rssi 65508 from 41217
+Send seq# 86  @    10469 ticks    81.789
+ Sleep for 18 slots
+Send seq# 87  @    10930 ticks    85.390
+Send seq# 88  @    10943 ticks    85.492
+ Sleep for 10 slots
+Send seq# 89  @    11199 ticks    87.492
+Send seq# 90  @    11212 ticks    87.593
+ Sleep for 13 slots
+Send seq# 91  @    11545 ticks    90.195
+Send seq# 92  @    11557 ticks    90.289
+ Sleep for 15 slots
+Send seq# 93  @    11941 ticks    93.289
+Send seq# 94  @    11954 ticks    93.390
+ Sleep for 15 slots
+Send seq# 95  @    12338 ticks    96.390
+Send seq# 96  @    12351 ticks    96.492
+ Sleep for 18 slots
+Send seq# 97  @    12812 ticks   100.093
+Received neighbour discovery packet 162 with rssi 65508 from 41217
+Send seq# 98  @    12824 ticks   100.187
+ Sleep for 7 slots
+Send seq# 99  @    13004 ticks   101.593
+Send seq# 100  @    13016 ticks   101.687
+ Sleep for 12 slots
+Send seq# 101  @    13324 ticks   104.093
+Send seq# 102  @    13336 ticks   104.187
+ Sleep for 14 slots
+Send seq# 103  @    13695 ticks   106.992
+Send seq# 104  @    13708 ticks   107.093
+ Sleep for 4 slots
+Send seq# 105  @    13810 ticks   107.890
+Send seq# 106  @    13823 ticks   107.992
+ Sleep for 6 slots
+Send seq# 107  @    13976 ticks   109.187
+Send seq# 108  @    13989 ticks   109.289
+ Sleep for 5 slots
+Send seq# 109  @    14117 ticks   110.289
+Send seq# 110  @    14130 ticks   110.390
+ Sleep for 12 slots
+Send seq# 111  @    14437 ticks   112.789
+Send seq# 112  @    14450 ticks   112.890
+ Sleep for 3 slots
+Send seq# 113  @    14527 ticks   113.492
+Send seq# 114  @    14540 ticks   113.593
+ Sleep for 12 slots
+Send seq# 115  @    14847 ticks   115.992
+Send seq# 116  @    14860 ticks   116.093
+ Sleep for 9 slots
+Send seq# 117  @    15090 ticks   117.890
+Send seq# 118  @    15103 ticks   117.992
+ Sleep for 8 slots
+Send seq# 119  @    15308 ticks   119.593
+Send seq# 120  @    15320 ticks   119.687
+ Sleep for 10 slots
+Send seq# 121  @    15576 ticks   121.687
+Send seq# 122  @    15589 ticks   121.789
+ Sleep for 0 slots
+Send seq# 123  @    15590 ticks   121.796
+Send seq# 124  @    15602 ticks   121.890
+ Sleep for 17 slots
+Send seq# 125  @    16037 ticks   125.289
+Send seq# 126  @    16050 ticks   125.390
+ Sleep for 18 slots
+Send seq# 127  @    16511 ticks   128.992
+Send seq# 128  @    16523 ticks   129.085
+ Sleep for 11 slots
+Send seq# 129  @    16805 ticks   131.289
+Send seq# 130  @    16818 ticks   131.390
+ Sleep for 8 slots
+Send seq# 131  @    17023 ticks   132.992
+Send seq# 132  @    17035 ticks   133.085
+ Sleep for 18 slots
+Send seq# 133  @    17496 ticks   136.687
+Send seq# 134  @    17509 ticks   136.789
+ Sleep for 8 slots
+Send seq# 135  @    17714 ticks   138.390
+Send seq# 136  @    17727 ticks   138.492
+ Sleep for 9 slots
+Send seq# 137  @    17957 ticks   140.289
+Send seq# 138  @    17970 ticks   140.390
+ Sleep for 0 slots
+Send seq# 139  @    17971 ticks   140.398
+Send seq# 140  @    17983 ticks   140.492
+ Sleep for 17 slots
+Send seq# 141  @    18418 ticks   143.890
+Send seq# 142  @    18431 ticks   143.992
+ Sleep for 12 slots
+Send seq# 143  @    18738 ticks   146.390
+Send seq# 144  @    18751 ticks   146.492
+ Sleep for 16 slots
+Send seq# 145  @    19160 ticks   149.687
+Send seq# 146  @    19173 ticks   149.789
+ Sleep for 13 slots
+Send seq# 147  @    19506 ticks   152.390
+Send seq# 148  @    19519 ticks   152.492
+ Sleep for 2 slots
+Send seq# 149  @    19570 ticks   152.890
+Send seq# 150  @    19583 ticks   152.992
+ Sleep for 2 slots
+Send seq# 151  @    19634 ticks   153.390
+Send seq# 152  @    19647 ticks   153.492
+ Sleep for 13 slots
+Send seq# 153  @    19980 ticks   156.093
+Send seq# 154  @    19992 ticks   156.187
+ Sleep for 2 slots
+Send seq# 155  @    20044 ticks   156.593
+Send seq# 156  @    20056 ticks   156.687
+ Sleep for 0 slots
+Send seq# 157  @    20057 ticks   156.695
+Send seq# 158  @    20069 ticks   156.789
+ Sleep for 7 slots
+Send seq# 159  @    20248 ticks   158.187
+Send seq# 160  @    20261 ticks   158.289
+ Sleep for 5 slots
+Send seq# 161  @    20389 ticks   159.289
+Send seq# 162  @    20402 ticks   159.390
+ Sleep for 13 slots
+Send seq# 163  @    20735 ticks   161.992
+Send seq# 164  @    20747 ticks   162.085
+ Sleep for 15 slots
+Send seq# 165  @    21132 ticks   165.093
+Send seq# 166  @    21144 ticks   165.187
+ Sleep for 18 slots
+Send seq# 167  @    21605 ticks   168.789
+Send seq# 168  @    21618 ticks   168.890
+ Sleep for 7 slots
+Send seq# 169  @    21797 ticks   170.289
+Received neighbour discovery packet 231 with rssi 65499 from 41217
+Send seq# 170  @    21810 ticks   170.390
+ Sleep for 15 slots
+Send seq# 171  @    22194 ticks   173.390
+Received neighbour discovery packet 233 with rssi 65501 from 41217
+Send seq# 172  @    22207 ticks   173.492
+ Sleep for 18 slots
+Send seq# 173  @    22668 ticks   177.093
+Send seq# 174  @    22680 ticks   177.187
+ Sleep for 13 slots
+Send seq# 175  @    23013 ticks   179.789
+Send seq# 176  @    23026 ticks   179.890
+ Sleep for 16 slots
+Send seq# 177  @    23436 ticks   183.093
+Send seq# 178  @    23448 ticks   183.187
+ Sleep for 5 slots
+Send seq# 179  @    23576 ticks   184.187
+Send seq# 180  @    23589 ticks   184.289
+ Sleep for 16 slots
+Send seq# 181  @    23999 ticks   187.492
+Send seq# 182  @    24011 ticks   187.585
+ Sleep for 13 slots
+Send seq# 183  @    24344 ticks   190.187
+Send seq# 184  @    24357 ticks   190.289
+ Sleep for 0 slots
+Send seq# 185  @    24358 ticks   190.296
+Send seq# 186  @    24370 ticks   190.390
+ Sleep for 9 slots
+Send seq# 187  @    24600 ticks   192.187
+Received neighbour discovery packet 257 with rssi 65500 from 41217
+Send seq# 188  @    24613 ticks   192.289
+ Sleep for 6 slots
+Send seq# 189  @    24767 ticks   193.492
+Send seq# 190  @    24779 ticks   193.585
+ Sleep for 3 slots
+Send seq# 191  @    24856 ticks   194.187
+Send seq# 192  @    24869 ticks   194.289
+ Sleep for 16 slots
+Send seq# 193  @    25279 ticks   197.492
+Send seq# 194  @    25291 ticks   197.585
+ Sleep for 8 slots
+Send seq# 195  @    25496 ticks   199.187
+Received neighbour discovery packet 265 with rssi 65500 from 41217
+Send seq# 196  @    25509 ticks   199.289
+ Sleep for 9 slots
+Send seq# 197  @    25739 ticks   201.085
+Send seq# 198  @    25752 ticks   201.187
+ Sleep for 14 slots
+Send seq# 199  @    26111 ticks   203.992
+Send seq# 200  @    26123 ticks   204.085
+ Sleep for 0 slots
+Send seq# 201  @    26124 ticks   204.093
+Send seq# 202  @    26136 ticks   204.187
+ Sleep for 7 slots
+Send seq# 203  @    26315 ticks   205.585
+Send seq# 204  @    26328 ticks   205.687
+ Sleep for 7 slots
+Send seq# 205  @    26507 ticks   207.085
+Send seq# 206  @    26520 ticks   207.187
+ Sleep for 1 slots
+Send seq# 207  @    26546 ticks   207.390
+Send seq# 208  @    26559 ticks   207.492
+ Sleep for 2 slots
+Send seq# 209  @    26610 ticks   207.890
+Send seq# 210  @    26622 ticks   207.984
+ Sleep for 18 slots
+Send seq# 211  @    27083 ticks   211.585
+Send seq# 212  @    27096 ticks   211.687
+ Sleep for 11 slots
+Send seq# 213  @    27378 ticks   213.890
+Send seq# 214  @    27390 ticks   213.984
+ Sleep for 18 slots
+Send seq# 215  @    27851 ticks   217.585
+Send seq# 216  @    27864 ticks   217.687
+ Sleep for 14 slots
+Send seq# 217  @    28223 ticks   220.492
+Send seq# 218  @    28235 ticks   220.585
+ Sleep for 10 slots
+Send seq# 219  @    28491 ticks   222.585
+Send seq# 220  @    28504 ticks   222.687
+ Sleep for 13 slots
+Send seq# 221  @    28837 ticks   225.289
+Send seq# 222  @    28850 ticks   225.390
+ Sleep for 3 slots
+Send seq# 223  @    28927 ticks   225.992
+Send seq# 224  @    28939 ticks   226.085
+ Sleep for 8 slots
+Send seq# 225  @    29144 ticks   227.687
+Send seq# 226  @    29157 ticks   227.789
+ Sleep for 14 slots
+Send seq# 227  @    29515 ticks   230.585
+Send seq# 228  @    29528 ticks   230.687
+ Sleep for 16 slots
+Send seq# 229  @    29938 ticks   233.890
+Send seq# 230  @    29950 ticks   233.984
+ Sleep for 10 slots
+Send seq# 231  @    30207 ticks   235.992
+Send seq# 232  @    30219 ticks   236.085
+ Sleep for 15 slots
+Send seq# 233  @    30603 ticks   239.085
+Send seq# 234  @    30616 ticks   239.187
+ Sleep for 7 slots
+Send seq# 235  @    30795 ticks   240.585
+Send seq# 236  @    30808 ticks   240.687
+ Sleep for 5 slots
+Send seq# 237  @    30936 ticks   241.687
+Send seq# 238  @    30949 ticks   241.789
+ Sleep for 8 slots
+Send seq# 239  @    31154 ticks   243.390
+Send seq# 240  @    31166 ticks   243.484
+ Sleep for 3 slots
+Send seq# 241  @    31243 ticks   244.085
+Received neighbour discovery packet 303 with rssi 65499 from 41217
+Send seq# 242  @    31256 ticks   244.187
+ Sleep for 10 slots
+Send seq# 243  @    31512 ticks   246.187
+Send seq# 244  @    31525 ticks   246.289
+ Sleep for 14 slots
+Send seq# 245  @    31883 ticks   249.085
+Send seq# 246  @    31896 ticks   249.187
+ Sleep for 3 slots
+Send seq# 247  @    31973 ticks   249.789
+Send seq# 248  @    31986 ticks   249.890
+ Sleep for 9 slots
+Send seq# 249  @    32216 ticks   251.687
+Send seq# 250  @    32229 ticks   251.789
+ Sleep for 4 slots
+Send seq# 251  @    32331 ticks   252.585
+Send seq# 252  @    32344 ticks   252.687
+ Sleep for 6 slots
+Send seq# 253  @    32498 ticks   253.890
+Send seq# 254  @    32510 ticks   253.984
+ Sleep for 2 slots
+Send seq# 255  @    32562 ticks   254.390
+Send seq# 256  @    32574 ticks   254.484
+ Sleep for 15 slots
+Send seq# 257  @    32959 ticks   257.492
+Received neighbour discovery packet 314 with rssi 65499 from 41217
+Send seq# 258  @    32971 ticks   257.585
+ Sleep for 17 slots
+Send seq# 259  @    33407 ticks   260.992
+Send seq# 260  @    33419 ticks   261.085
+ Sleep for 12 slots
+Send seq# 261  @    33727 ticks   263.492
+Send seq# 262  @    33739 ticks   263.585
+ Sleep for 6 slots
+Send seq# 263  @    33893 ticks   264.789
+Send seq# 264  @    33906 ticks   264.890
+ Sleep for 6 slots
+Send seq# 265  @    34059 ticks   266.085
+Send seq# 266  @    34072 ticks   266.187
+ Sleep for 0 slots
+Send seq# 267  @    34073 ticks   266.195
+Send seq# 268  @    34085 ticks   266.289
+ Sleep for 12 slots
+Send seq# 269  @    34392 ticks   268.687
+Send seq# 270  @    34405 ticks   268.789
+ Sleep for 1 slots
+Send seq# 271  @    34430 ticks   268.984
+Send seq# 272  @    34443 ticks   269.085
+ Sleep for 5 slots
+Send seq# 273  @    34571 ticks   270.085
+Send seq# 274  @    34584 ticks   270.187
+ Sleep for 7 slots
+Send seq# 275  @    34763 ticks   271.585
+Send seq# 276  @    34776 ticks   271.687
+ Sleep for 17 slots
+Send seq# 277  @    35211 ticks   275.085
+Send seq# 278  @    35224 ticks   275.187
+ Sleep for 0 slots
+Send seq# 279  @    35225 ticks   275.195
+Send seq# 280  @    35237 ticks   275.289
+ Sleep for 15 slots
+Send seq# 281  @    35621 ticks   278.289
+Send seq# 282  @    35634 ticks   278.390
+ Sleep for 7 slots
+Send seq# 283  @    35813 ticks   279.789
+Send seq# 284  @    35826 ticks   279.890
+ Sleep for 13 slots
+Send seq# 285  @    36158 ticks   282.484
+Send seq# 286  @    36171 ticks   282.585
+ Sleep for 7 slots
+Send seq# 287  @    36350 ticks   283.984
+Send seq# 288  @    36363 ticks   284.085
+ Sleep for 18 slots
+Send seq# 289  @    36824 ticks   287.687
+Send seq# 290  @    36837 ticks   287.789
+ Sleep for 16 slots
+Send seq# 291  @    37246 ticks   290.984
+Send seq# 292  @    37259 ticks   291.085
+ Sleep for 5 slots
+Send seq# 293  @    37387 ticks   292.085
+Send seq# 294  @    37400 ticks   292.187
+ Sleep for 2 slots
+Send seq# 295  @    37451 ticks   292.585
+Send seq# 296  @    37464 ticks   292.687
+ Sleep for 10 slots
+Send seq# 297  @    37720 ticks   294.687
+Send seq# 298  @    37733 ticks   294.789
+ Sleep for 6 slots
+Send seq# 299  @    37886 ticks   295.984
+Send seq# 300  @    37899 ticks   296.085
+ Sleep for 2 slots
+Send seq# 301  @    37950 ticks   296.484
+Received neighbour discovery packet 354 with rssi 65500 from 41217
+Send seq# 302  @    37963 ticks   296.585
+ Sleep for 18 slots
+Send seq# 303  @    38424 ticks   300.187
+Received neighbour discovery packet 360 with rssi 65499 from 41217
+Send seq# 304  @    38437 ticks   300.289
+ Sleep for 10 slots
+Send seq# 305  @    38693 ticks   302.289
+Received neighbour discovery packet 363 with rssi 65499 from 41217
+Send seq# 306  @    38705 ticks   302.382
+ Sleep for 17 slots
+Send seq# 307  @    39141 ticks   305.789
+Send seq# 308  @    39153 ticks   305.882
+ Sleep for 10 slots
+Send seq# 309  @    39410 ticks   307.890
+Send seq# 310  @    39422 ticks   307.984
+ Sleep for 3 slots
+Send seq# 311  @    39499 ticks   308.585
+Send seq# 312  @    39512 ticks   308.687
+ Sleep for 1 slots
+Send seq# 313  @    39538 ticks   308.890
+Send seq# 314  @    39550 ticks   308.984
+ Sleep for 7 slots
+Send seq# 315  @    39730 ticks   310.390
+Send seq# 316  @    39742 ticks   310.484
+ Sleep for 16 slots
+Send seq# 317  @    40152 ticks   313.687
+Send seq# 318  @    40165 ticks   313.789
+ Sleep for 10 slots
+Send seq# 319  @    40421 ticks   315.789
+Received neighbour discovery packet 377 with rssi 65499 from 41217
+Send seq# 320  @    40433 ticks   315.882
+ Sleep for 17 slots
+Send seq# 321  @    40869 ticks   319.289
+Send seq# 322  @    40881 ticks   319.382
+ Sleep for 8 slots
+Send seq# 323  @    41086 ticks   320.984
+Send seq# 324  @    41099 ticks   321.085
+ Sleep for 11 slots
+Send seq# 325  @    41381 ticks   323.289
+Send seq# 326  @    41393 ticks   323.382
+ Sleep for 13 slots
+Send seq# 327  @    41726 ticks   325.984
+Send seq# 328  @    41739 ticks   326.085
+ Sleep for 13 slots
+Send seq# 329  @    42072 ticks   328.687
+Send seq# 330  @    42085 ticks   328.789
+ Sleep for 17 slots
+Send seq# 331  @    42520 ticks   332.187
+Send seq# 332  @    42533 ticks   332.289
+ Sleep for 18 slots
+Send seq# 333  @    42994 ticks   335.890
+Send seq# 334  @    43006 ticks   335.984
+ Sleep for 2 slots
+Send seq# 335  @    43058 ticks   336.390
+Send seq# 336  @    43070 ticks   336.484
+ Sleep for 18 slots
+Send seq# 337  @    43531 ticks   340.085
+Send seq# 338  @    43544 ticks   340.187
+ Sleep for 11 slots
+Send seq# 339  @    43826 ticks   342.390
+Received neighbour discovery packet 404 with rssi 65499 from 41217
+Send seq# 340  @    43838 ticks   342.484
+ Sleep for 11 slots
+Send seq# 341  @    44120 ticks   344.687
+Send seq# 342  @    44133 ticks   344.789
+ Sleep for 9 slots
+Send seq# 343  @    44363 ticks   346.585
+Send seq# 344  @    44376 ticks   346.687
+ Sleep for 3 slots
+Send seq# 345  @    44453 ticks   347.289
+Send seq# 346  @    44465 ticks   347.382
+ Sleep for 12 slots
+Send seq# 347  @    44773 ticks   349.789
+Received neighbour discovery packet 413 with rssi 65499 from 41217
+Send seq# 348  @    44785 ticks   349.882
+ Sleep for 10 slots
+Send seq# 349  @    45041 ticks   351.882
+Send seq# 350  @    45054 ticks   351.984
+ Sleep for 4 slots
+Send seq# 351  @    45157 ticks   352.789
+Send seq# 352  @    45169 ticks   352.882
+ Sleep for 4 slots
+Send seq# 353  @    45272 ticks   353.687
+Send seq# 354  @    45285 ticks   353.789
+ Sleep for 4 slots
+Send seq# 355  @    45387 ticks   354.585
+Send seq# 356  @    45400 ticks   354.687
+ Sleep for 11 slots
+Send seq# 357  @    45681 ticks   356.882
+Send seq# 358  @    45694 ticks   356.984
+ Sleep for 14 slots
+Send seq# 359  @    46053 ticks   359.789
+Send seq# 360  @    46065 ticks   359.882
+ Sleep for 7 slots
+Send seq# 361  @    46245 ticks   361.289
+Send seq# 362  @    46257 ticks   361.382
+ Sleep for 17 slots
+Send seq# 363  @    46693 ticks   364.789
+Send seq# 364  @    46705 ticks   364.882
+ Sleep for 0 slots
+Send seq# 365  @    46706 ticks   364.890
+Send seq# 366  @    46718 ticks   364.984
+ Sleep for 9 slots
+Send seq# 367  @    46949 ticks   366.789
+Send seq# 368  @    46961 ticks   366.882
+ Sleep for 2 slots
+Send seq# 369  @    47013 ticks   367.289
+Send seq# 370  @    47025 ticks   367.382
+ Sleep for 9 slots
+Send seq# 371  @    47256 ticks   369.187
+Send seq# 372  @    47269 ticks   369.289
+ Sleep for 2 slots
+Send seq# 373  @    47320 ticks   369.687
+Send seq# 374  @    47333 ticks   369.789
+ Sleep for 13 slots
+Send seq# 375  @    47665 ticks   372.382
+Send seq# 376  @    47678 ticks   372.484
+ Sleep for 5 slots
+Send seq# 377  @    47806 ticks   373.484
+Send seq# 378  @    47819 ticks   373.585
+ Sleep for 17 slots
+Send seq# 379  @    48254 ticks   376.984
+Send seq# 380  @    48267 ticks   377.085
+ Sleep for 3 slots
+Send seq# 381  @    48344 ticks   377.687
+Send seq# 382  @    48356 ticks   377.781
+ Sleep for 17 slots
+Send seq# 383  @    48792 ticks   381.187
+Send seq# 384  @    48804 ticks   381.281
+ Sleep for 7 slots
+Send seq# 385  @    48984 ticks   382.687
+Send seq# 386  @    48996 ticks   382.781
+ Sleep for 2 slots
+Send seq# 387  @    49048 ticks   383.187
+Send seq# 388  @    49060 ticks   383.281
+ Sleep for 5 slots
+Send seq# 389  @    49189 ticks   384.289
+Send seq# 390  @    49201 ticks   384.382
+ Sleep for 8 slots
+Send seq# 391  @    49406 ticks   385.984
+Send seq# 392  @    49419 ticks   386.085
+ Sleep for 2 slots
+Send seq# 393  @    49470 ticks   386.484
+Received neighbour discovery packet 447 with rssi 65499 from 41217
+Send seq# 394  @    49483 ticks   386.585
+ Sleep for 3 slots
+Send seq# 395  @    49560 ticks   387.187
+Send seq# 396  @    49572 ticks   387.281
+ Sleep for 13 slots

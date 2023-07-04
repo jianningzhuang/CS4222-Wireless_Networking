@@ -1,0 +1,100 @@
+Send seq# 126  @ slot# 41     4415 ticks    34.492
+Send seq# 127  @ slot# 42     4416 ticks    34.500
+Send seq# 128  @ slot# 42     4428 ticks    34.593
+Send seq# 129  @ slot# 43     4428 ticks    34.593
+Send seq# 130  @ slot# 43     4440 ticks    34.687
+Send seq# 131  @ slot# 44     4441 ticks    34.695
+Send seq# 132  @ slot# 44     4453 ticks    34.789
+Send seq# 133  @ slot# 45     4454 ticks    34.796
+Send seq# 134  @ slot# 45     4466 ticks    34.890
+Send seq# 135  @ slot# 46     4467 ticks    34.898
+Send seq# 136  @ slot# 46     4479 ticks    34.992
+Send seq# 137  @ slot# 47     4480 ticks    35.000
+Received neighbour discovery packet 117 with rssi -51 from 41217
+Send seq# 138  @ slot# 47     4492 ticks    35.093
+Send seq# 139  @ slot# 48     4492 ticks    35.093
+Received neighbour discovery packet 118 with rssi -51 from 41217
+Send seq# 140  @ slot# 48     4504 ticks    35.187
+Send seq# 141  @ slot# 49     4505 ticks    35.195
+Send seq# 142  @ slot# 49     4517 ticks    35.289
+Send seq# 143  @ slot# 55     4581 ticks    35.789
+Send seq# 144  @ slot# 55     4594 ticks    35.890
+Send seq# 145  @ slot# 65     4709 ticks    36.789
+Send seq# 146  @ slot# 65     4722 ticks    36.890
+Send seq# 147  @ slot# 75     4837 ticks    37.789
+Send seq# 148  @ slot# 75     4850 ticks    37.890
+Send seq# 149  @ slot# 85     4965 ticks    38.789
+Send seq# 150  @ slot# 85     4978 ticks    38.890
+Send seq# 151  @ slot# 95     5093 ticks    39.789
+Send seq# 152  @ slot# 95     5106 ticks    39.890
+Send seq# 153  @ slot# 5     5221 ticks    40.789
+Received neighbour discovery packet 130 with rssi -48 from 41217
+Received neighbour discovery packet 131 with rssi -48 from 41217
+Send seq# 154  @ slot# 5     5234 ticks    40.890
+Send seq# 155  @ slot# 15     5349 ticks    41.789
+Send seq# 156  @ slot# 15     5362 ticks    41.890
+Send seq# 157  @ slot# 25     5477 ticks    42.789
+Send seq# 158  @ slot# 25     5490 ticks    42.890
+Send seq# 159  @ slot# 35     5605 ticks    43.789
+Send seq# 160  @ slot# 35     5618 ticks    43.890
+Send seq# 161  @ slot# 40     5669 ticks    44.289
+Send seq# 162  @ slot# 40     5682 ticks    44.390
+Send seq# 163  @ slot# 41     5683 ticks    44.398
+Send seq# 164  @ slot# 41     5695 ticks    44.492
+Send seq# 165  @ slot# 42     5696 ticks    44.500
+Send seq# 166  @ slot# 42     5708 ticks    44.593
+Send seq# 167  @ slot# 43     5708 ticks    44.593
+Send seq# 168  @ slot# 43     5720 ticks    44.687
+Send seq# 169  @ slot# 44     5721 ticks    44.695
+Send seq# 170  @ slot# 44     5733 ticks    44.789
+Send seq# 171  @ slot# 45     5734 ticks    44.796
+Send seq# 172  @ slot# 45     5746 ticks    44.890
+Send seq# 173  @ slot# 46     5747 ticks    44.898
+Send seq# 174  @ slot# 46     5759 ticks    44.992
+Send seq# 175  @ slot# 47     5759 ticks    44.992
+Received neighbour discovery packet 155 with rssi -46 from 41217
+Send seq# 176  @ slot# 47     5772 ticks    45.093
+Send seq# 177  @ slot# 48     5772 ticks    45.093
+Received neighbour discovery packet 156 with rssi -47 from 41217
+Send seq# 178  @ slot# 48     5784 ticks    45.187
+Send seq# 179  @ slot# 49     5785 ticks    45.195
+Send seq# 180  @ slot# 49     5797 ticks    45.289
+Send seq# 181  @ slot# 55     5861 ticks    45.789
+Send seq# 182  @ slot# 55     5874 ticks    45.890
+Send seq# 183  @ slot# 65     5989 ticks    46.789
+Send seq# 184  @ slot# 65     6002 ticks    46.890
+Send seq# 185  @ slot# 75     6117 ticks    47.789
+Send seq# 186  @ slot# 75     6130 ticks    47.890
+Send seq# 187  @ slot# 85     6245 ticks    48.789
+Send seq# 188  @ slot# 85     6258 ticks    48.890
+Send seq# 189  @ slot# 95     6373 ticks    49.789
+Send seq# 190  @ slot# 95     6386 ticks    49.890
+Send seq# 191  @ slot# 5     6501 ticks    50.789
+Received neighbour discovery packet 168 with rssi -47 from 41217
+Received neighbour discovery packet 169 with rssi -47 from 41217
+Send seq# 192  @ slot# 5     6514 ticks    50.890
+Send seq# 193  @ slot# 15     6629 ticks    51.789
+Send seq# 194  @ slot# 15     6642 ticks    51.890
+Send seq# 195  @ slot# 25     6757 ticks    52.789
+Send seq# 196  @ slot# 25     6770 ticks    52.890
+Send seq# 197  @ slot# 35     6885 ticks    53.789
+Send seq# 198  @ slot# 35     6898 ticks    53.890
+Send seq# 199  @ slot# 40     6949 ticks    54.289
+Send seq# 200  @ slot# 40     6962 ticks    54.390
+Send seq# 201  @ slot# 41     6963 ticks    54.398
+Send seq# 202  @ slot# 41     6975 ticks    54.492
+Send seq# 203  @ slot# 42     6975 ticks    54.492
+Send seq# 204  @ slot# 42     6987 ticks    54.585
+Send seq# 205  @ slot# 43     6988 ticks    54.593
+Send seq# 206  @ slot# 43     7000 ticks    54.687
+Send seq# 207  @ slot# 44     7001 ticks    54.695
+Send seq# 208  @ slot# 44     7013 ticks    54.789
+Send seq# 209  @ slot# 45     7014 ticks    54.796
+Send seq# 210  @ slot# 45     7026 ticks    54.890
+Send seq# 211  @ slot# 46     7027 ticks    54.898
+Send seq# 212  @ slot# 46     7039 ticks    54.992
+Send seq# 213  @ slot# 47     7039 ticks    54.992
+Received neighbour discovery packet 193 with rssi -48 from 41217
+Send seq# 214  @ slot# 47     7051 ticks    55.085
+Send seq# 215  @ slot# 48     7052 ticks    55.093
+Received neighbour discovery packet 194 with rss

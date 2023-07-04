@@ -1,0 +1,80 @@
+1)
+
+a) 865-868MHz, 900-920MHz
+
+b) each sensor 125kHz, 20MHz total bandwidth available
+
+FSK => 20MHz/125kHz = 160
+
+LoRa orthogonality => much higher
+
+c) higher sensitivity/range, more concurrent transmissions, better reliability
+
+d) simple MAC protocol for little synchronization
+
+ALOHA 
+
+e) Gr/Gt = 2dB
+d = 4000m
+receiver => -146dBm
+f = 900MHz
+
+friis propogation
+
+transmitter = -46dBm
+
+2) IPv4 vs IPv6
+
+a) larger address space
+
+IPv4 2^32
+IPv6 2^128 => devices uniquely addressed
+
+
+b) IPv6 header 40 bytes, streamlined compared to IPv4
+
+IPv6 address compression => consecutive groups of 0s ::
+
+c) aecb:222::10
+
+replace double colon with appropriate number of 0s
+
+aecb:0222:0000:0000:....:1000
+
+3) Bluetooth
+
+a) Bluetooth 4.2 PHY 1Mb/s
+
+5.2 higher bitrate
+
+advertisement packet => 47 bytes
+
+0.376ms
+
+b) 10mW
+
+same packet sent over 3 advertisement channels
+
+10mW * 0.376ms *3
+
+c) audio => connection oriented
+
+beacons => advertisement
+
+d) extended advertisements
+
+
+3 primary channels
+channel hopping minimise inteference
+
+
+
+
+
+
+
+
+
+
+
+

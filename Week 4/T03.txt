@@ -1,0 +1,76 @@
+1. step counting on wearable devices
+
+accelerometer 
+
+MEMS inertial sensors
+
+IMU(accelerometer + gyroscope) more accurately estimate number of steps taken, more sensors => more robust to false positives
+
+Step counting involves ML/Statistics based models to make sense of sensor data
+
+2.
+i) detect metallic objects buried in soil
+
+metallic objects cause change in physical property of soil
+
+magnetic properties
+magnetometer => strength and direction of magnetic field
+EM induction sensors => EM waves
+
+electrical conductivity
+GPR
+
+
+ii) detect blood oxygen level on a wearable device
+
+pulse oximeter sp02 levels
+absorption of light at different wavelengths help determine oxygen saturation level
+light emitter shines red and IR light into bloodcells
+photodetector measures amount of light absorbed by blood
+
+
+
+iii) determining water level in a tank situated on top of a building
+
+ultrasonic sensors => high freq sound waves to measure distance between sensor and water surface
+
+optical IR/Laser => detect amount of light reflected by water surface using light source and photodetector
+
+iv) generate a 3D mapping of historical structures
+
+
+LiDAR sensor => point cloud data x, y, z
+
+3. Molex 10mAH, 3V
+
+P(W) = V(V) * I(A)
+Wh = Ah/V
+battery life = mAh capacity/mAload current 
+
+a)
+
+BME 280 => 2777.78 hours
+
+ADXL => 33.33 
+
+OPT => 101 83.33
+
+HM01B01 => 6.67
+
+b) how to entend battery life
+
+for calculation, assume sensors active at all times
+do not need to continously sample sensor data
+
+reduce sampling freq
+
+e.g image from camera every minute, temp every hour
+
+reducing active duration can extend battery life significantly
+
+
+
+
+
+
+

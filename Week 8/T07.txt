@@ -1,0 +1,78 @@
+1. BMAC
+
+every 250ms, sample for 5ms
+every 5s, transmit/receive for 5ms
+
+preamble is 250ms (1 wakeup slot duration)
+
+receive assume for 1/2 preamble time = 125ms (assumption)
+
+idle cycle = 245ms sleep + 5ms idle listen
+receive cycle = 125ms sleep + 125ms idle listen + 5ms receive
+transmit cycle = 250ms + 5ms transmit
+
+in 5.005s, 19 cycles idle listen, 1 cycle receive/transmit
+
+energy = 19*(245ms*1mW + 5ms*10mW) + 125ms*1mW + 125ms*10mW + 5ms*20mW + 255ms*20mW = 0.4446mJ per cycle
+
+10kJ => 65.1 days
+
+2. packet error rate 0.25, 0.1, 0.5, 0.2
+
+packet reception rate 0.75, 0.9, 0.5, 0.8
+
+a) ETX = 1/PRP
+
+1/0.75 + 1/0.9 + 1/0.5 + 1/0.8 = 5.69
+
+
+
+b) no retransmission probability
+
+0.75 * 0.9 * 0.5 * 0.8 = 0.27
+
+3. shortest path from 5 to 0
+
+a) hop count metric
+
+hop count = 2
+
+5->1->0
+
+b) ETX metric
+
+1/0.6 + 1/0.9 = 2.77 still best ETX metric 5->1->0
+
+1/0.8 + 1/1 + 1/0.9
+
+vs 3 * 1/0.9
+
+c) min usable link quality is 0.6
+
+X * 1/0.6
+
+4.
+
+a) wireless mesh
+
+static nodes, select routing protocols that minimize inteference
+
+b) mobile ad hoc
+
+mobile nodes, proactive/reactive routing protocols
+
+c) delay/disruption tolerant network
+
+lack of end to end connectivity, sparse nodes, limited range
+
+store and forward, need sufficient local storage
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,612 @@
+Send seq# 405  @    12962 ticks   101.265
+Send seq# 406  @    12969 ticks   101.320
+ Sleep for 13 slots
+Send seq# 407  @    13052 ticks   101.968
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 41217
+[INFO: Main      ] Link-layer address: 0012.4b00.129a.a101
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 41217 will be sending packet of size 12 Bytes
+Received neighbour discovery packet Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+228 with rssi 65490 from 32772
+Send seq# 2  @       44 ticks     0.343
+ Sleep for 17 slots
+Send seq# 3  @      153 ticks     1.195
+Send seq# 4  @      159 ticks     1.242
+ Sleep for 8 slots
+Send seq# 5  @      210 ticks     1.640
+Send seq# 6  @      217 ticks     1.695
+ Sleep for 7 slots
+Send seq# 7  @      261 ticks     2.039
+Send seq# 8  @      268 ticks     2.093
+ Sleep for 12 slots
+Send seq# 9  @      345 ticks     2.695
+Received neighbour discovery packet 236 with rssi 65496 from 32772
+Received neighbour discovery packet 237 with rssi 65496 from Send seq# 10  @      351 ticks     2.742
+ Sleep for 10 slots
+32772
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 41217
+[INFO: Main      ] Link-layer address: 0012.4b00.129a.a101
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 41217 will be sending packet of size 12 Bytes
+Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+Send seq# 2  @       44 ticks     0.343
+ Sleep for 1 slots
+Send seq# 3  @       50 ticks     0.390
+Received neighbour discovery packet 244 with rssi 65496 from 32772
+Send seq# 4  @       57 ticks     0.445
+ Sleep for 13 slots
+Send seq# 5  @      140 ticks     1.093
+Send seq# 6  @      146 ticks     1.140
+ Sleep for 14 slots
+Send seq# 7  @      236 ticks     1.843
+Send seq# 8  @      242 ticks     1.890
+ Sleep for 7 slots
+Send seq# 9  @      287 ticks     2.242
+Send seq# 10  @      293 ticks     2.289
+ Sleep for 12 slots
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 41217
+[INFO: Main      ] Link-layer address: 0012.4b00.129a.a101
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 41217 will be sending packet of size 12 Bytes
+Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+Received neighbour discovery packet 253 with rssi 65495 from 32772
+Received neighbour discovery packet 254 with rssi 65495 from Send seq# 2  @       44 ticks     0.343
+ Sleep for 6 slots
+32772
+Send seq# 3  @       82 ticks     0.640
+Received neighbour discovery packet 256 with rssi 65495 from 32772
+Send seq# 4  @       89 ticks     0.695
+ Sleep for 9 slots
+Send seq# 5  @      146 ticks     1.140
+Send seq# 6  @      153 ticks     1.195
+ Sleep for 9 slots
+Send seq# 7  @      210 ticks     1.640
+Send seq# 8  @      217 ticks     1.695
+ Sleep for 18 slots
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 41217
+[INFO: Main      ] Link-layer address: 0012.4b00.129a.a101
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 41217 will be sending packet of size 12 Bytes
+Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+Send seq# 2  @       44 ticks     0.343
+ Sleep for 8 slots
+Send seq# 3  @       95 ticks     0.742
+Send seq# 4  @      101 ticks     0.789
+ Sleep for 16 slots
+Send seq# 5  @      204 ticks     1.593
+Send seq# 6  @      210 ticks     1.640
+ Sleep for 2 slots
+Send seq# 7  @      223 ticks     1.742
+Send seq# 8  @      229 ticks     1.789
+ Sleep for 6 slots
+Send seq# 9  @      268 ticks     2.093
+Send seq# 10  @      274 ticks     2.140
+ Sleep for 8 slots
+Send seq# 11  @      325 ticks     2.539
+Received neighbour discovery packet 272 with rssi 65494 from 32772
+Send seq# 12  @      332 ticks     2.593
+ Sleep for 6 slots
+Send seq# 13  @      370 ticks     2.890
+Send seq# 14  @      377 ticks     2.945
+ Sleep for 17 slots
+Send seq# 15  @      485 ticks     3.789
+Received neighbour discovery packet 275 with rssi 65494 from 32772
+Send seq# 16  @      492 ticks     3.843
+ Sleep for 11 slots
+Send seq# 17  @      562 ticks     4.390
+Send seq# 18  @      568 ticks     4.437
+ Sleep for 3 slots
+Send seq# 19  @      588 ticks     4.593
+Send seq# 20  @      594 ticks     4.640
+ Sleep for 18 slots
+Send seq# 21  @      709 ticks     5.539
+Received neighbour discovery packet 281 with rssi 65494 from 32772
+Send seq# 22  @      716 ticks     5.593
+ Sleep for 7 slots
+Send seq# 23  @      761 ticks     5.945
+Send seq# 24  @      767 ticks     5.992
+ Sleep for 2 slots
+Send seq# 25  @      780 ticks     6.093
+Send seq# 26  @      786 ticks     6.140
+ Sleep for 0 slots
+Send seq# 27  @      787 ticks     6.148
+Send seq# 28  @      792 ticks     6.187
+ Sleep for 10 slots
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 41217
+[INFO: Main      ] Link-layer address: 0012.4b00.129a.a101
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 41217 will be sending packet of size 12 Bytes
+Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+Send seq# 2  @       44 ticks     0.343
+ Sleep for 2 slots
+Send seq# 3  @       57 ticks     0.445
+Send seq# 4  @       63 ticks     0.492
+ Sleep for 15 slots
+Send seq# 5  @      159 ticks     1.242
+Received neighbour discovery packet 294 with rssi 65493 from 32772
+Received neighbour discovery packet Send seq# 6  @      165 ticks     1.289
+ Sleep for 9 slots
+295 with rssi 65493 from 32772
+Send seq# 7  @      223 ticks     1.742
+Send seq# 8  @      229 ticks     1.789
+ Sleep for 1 slots
+Send seq# 9  @      236 ticks     1.843
+Send seq# 10  @      242 ticks     1.890
+ Sleep for 9 slots
+Send seq# 11  @      300 ticks     2.343
+Send seq# 12  @      306 ticks     2.390
+ Sleep for 9 slots
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 41217
+[INFO: Main      ] Link-layer address: 0012.4b00.129a.a101
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 41217 will be sending packet of size 12 Bytes
+Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+Send seq# 2  @       44 ticks     0.343
+ Sleep for 14 slots
+Send seq# 3  @      134 ticks     1.046
+Send seq# 4  @      140 ticks     1.093
+ Sleep for 11 slots
+Send seq# 5  @      210 ticks     1.640
+Send seq# 6  @      217 ticks     1.695
+ Sleep for 16 slots
+Send seq# 7  @      319 ticks     2.492
+Received neighbour discovery packet 314 with rssi 65493 from 32772
+Send seq# 8  @      325 ticks     2.539
+ Sleep for 8 slots
+Send seq# 9  @      377 ticks     2.945
+Send seq# 10  @      383 ticks     2.992
+ Sleep for 10 slots
+Send seq# 11  @      447 ticks     3.492
+Send seq# 12  @      453 ticks     3.539
+ Sleep for 4 slots
+Send seq# 13  @      479 ticks     3.742
+Send seq# 14  @      485 ticks     3.789
+ Sleep for 16 slots
+Send seq# 15  @      588 ticks     4.593
+Send seq# 16  @      594 ticks     4.640
+ Sleep for 16 slots
+Send seq# 17  @      697 ticks     5.445
+Send seq# 18  @      703 ticks     5.492
+ Sleep for 13 slots
+Send seq# 19  @      786 ticks     6.140
+Send seq# 20  @      792 ticks     6.187
+ Sleep for 4 slots
+Send seq# 21  @      818 ticks     6.390
+Send seq# 22  @      824 ticks     6.437
+ Sleep for 12 slots
+Send seq# 23  @      901 ticks     7.039
+Send seq# 24  @      908 ticks     7.093
+ Sleep for 11 slots
+Send seq# 25  @      978 ticks     7.640
+Send seq# 26  @      984 ticks     7.687
+ Sleep for 9 slots
+Send seq# 27  @     1042 ticks     8.140
+Received neighbour discovery packet 336 with rssi 65493 from 32772
+Send seq# 28  @     1048 ticks     8.187
+ Sleep for 18 slots
+Send seq# 29  @     1164 ticks     9.093
+Send seq# 30  @     1170 ticks     9.140
+ Sleep for 3 slots
+Send seq# 31  @     1189 ticks     9.289
+Send seq# 32  @     1196 ticks     9.343
+ Sleep for 12 slots
+Send seq# 33  @     1272 ticks     9.937
+Send seq# 34  @     1279 ticks     9.992
+ Sleep for 3 slots
+Send seq# 35  @     1298 ticks    10.140
+Send seq# 36  @     1304 ticks    10.187
+ Sleep for 5 slots
+Send seq# 37  @     1336 ticks    10.437
+Send seq# 38  @     1343 ticks    10.492
+ Sleep for 2 slots
+Send seq# 39  @     1356 ticks    10.593
+Send seq# 40  @     1362 ticks    10.640
+ Sleep for 1 slots
+Send seq# 41  @     1368 ticks    10.687
+Send seq# 42  @     1375 ticks    10.742
+ Sleep for 7 slots
+Send seq# 43  @     1420 ticks    11.093
+Send seq# 44  @     1426 ticks    11.140
+ Sleep for 6 slots
+Send seq# 45  @     1464 ticks    11.437
+Received neighbour discovery packet 345 with rssi 65508 from 32772
+Send seq# 46  @     1471 ticks    11.492
+ Sleep for 3 slots
+Send seq# 47  @     1490 ticks    11.640
+Send seq# 48  @     1496 ticks    11.687
+ Sleep for 0 slots
+Send seq# 49  @     1497 ticks    11.695
+Received neighbour discovery packet 348 with rssi 65508 from 32772
+Send seq# 50  @     1503 ticks    11.742
+ Sleep for 8 slots
+Send seq# 51  @     1554 ticks    12.140
+Received neighbour discovery packet 351 with rssi 65498 from 32772
+Send seq# 52  @     1560 ticks    12.187
+ Sleep for 13 slots
+Send seq# 53  @     1644 ticks    12.843
+Send seq# 54  @     1650 ticks    12.890
+ Sleep for 0 slots
+Send seq# 55  @     1651 ticks    12.898
+Received neighbour discovery packet 353 with rssi 65509 from 32772
+Send seq# 56  @     1656 ticks    12.937
+ Sleep for 6 slots
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 41217
+[INFO: Main      ] Link-layer address: 0012.4b00.129a.a101
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 41217 will be sending packet of size 12 Bytes
+Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+Send seq# 2  @       44 ticks     0.343
+ Sleep for 7 slots
+Send seq# 3  @       89 ticks     0.695
+Send seq# 4  @       95 ticks     0.742
+ Sleep for 5 slots
+Send seq# 5  @      127 ticks     0.992
+Send seq# 6  @      133 ticks     1.039
+ Sleep for 18 slots
+Send seq# 7  @      249 ticks     1.945
+Received neighbour discovery packet 361 with rssi 65511 from 32772
+Send seq# 8  @      255 ticks     1.992
+ Sleep for 3 slots
+Send seq# 9  @      274 ticks     2.140
+Received neighbour discovery packet 362 with rssi 65511 from 32772
+Received neighbour discovery packet 363 with rssi 65511 from 32772
+Send seq# 10  @      281 ticks     2.195
+ Sleep for 4 slots
+Send seq# 11  @      306 ticks     2.390
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 41217
+[INFO: Main      ] Link-layer address: 0012.4b00.129a.a101
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 41217 will be sending packet of size 12 Bytes
+Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+Send seq# 2  @       44 ticks     0.343
+ Sleep for 14 slots
+Send seq# 3  @      133 ticks     1.039
+Send seq# 4  @      140 ticks     1.093
+ Sleep for 15 slots
+Send seq# 5  @      236 ticks     1.843
+Send seq# 6  @      242 ticks     1.890
+ Sleep for 3 slots
+Send seq# 7  @      261 ticks     2.039
+Received neighbour discovery packet 389 with rssi 65510 from 32772
+Send seq# 8  @      268 ticks     2.093
+ Sleep for 16 slots
+Send seq# 9  @      370 ticks     2.890
+Send seq# 10  @      377 ticks     2.945
+ Sleep for 0 slots
+Send seq# 11  @      377 ticks     2.945
+Send seq# 12  @      383 ticks     2.992
+ Sleep for 4 slots
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 41217
+[INFO: Main      ] Link-layer address: 0012.4b00.129a.a101
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 41217 will be sending packet of size 12 Bytes
+Received neighbour discovery packet Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+399 with rssi 65510 from 32772
+Send seq# 2  @       44 ticks     0.343
+ Sleep for 2 slots
+Send seq# 3  @       57 ticks     0.445
+Send seq# 4  @       63 ticks     0.492
+ Sleep for 13 slots
+Send seq# 5  @      146 ticks     1.140
+Send seq# 6  @      153 ticks     1.195
+ Sleep for 17 slots
+Send seq# 7  @      261 ticks     2.039
+Received neighbour discovery packet 404 with rssi 65509 from 32772
+Send seq# 8  @      268 ticks     2.093
+ Sleep for 17 slots
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 41217
+[INFO: Main      ] Link-layer address: 0012.4b00.129a.a101
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 41217 will be sending packet of size 12 Bytes
+Received neighbour discovery packet Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+409 with rssi 65510 from 32772
+Received neighbour discovery packet 410 with rssi 65510 from 32772
+Send seq# 2  @       44 ticks     0.343
+ Sleep for 1 slots
+Send seq# 3  @       50 ticks     0.390
+Send seq# 4  @       57 ticks     0.445
+ Sleep for 4 slots
+Send seq# 5  @       82 ticks     0.640
+Send seq# 6  @       89 ticks     0.695
+ Sleep for 16 slots
+Send seq# 7  @      191 ticks     1.492
+Send seq# 8  @      197 ticks     1.539
+ Sleep for 0 slots
+Send seq# 9  @      198 ticks     1.546
+Send seq# 10  @      204 ticks     1.593
+ Sleep for 6 slots
+Send seq# 11  @      242 ticks     1.890
+Send seq# 12  @      249 ticks     1.945
+ Sleep for 6 slots
+Send seq# 13  @      287 ticks     2.242
+Send seq# 14  @      293 ticks     2.289
+ Sleep for 12 slots
+Send seq# 15  @      370 ticks     2.890
+Send seq# 16  @      377 ticks     2.945
+ Sleep for 13 slots
+Send seq# 17  @      460 ticks     3.593
+Send seq# 18  @      466 ticks     3.640
+ Sleep for 16 slots
+Send seq# 19  @      569 ticks     4.445
+Send seq# 20  @      575 ticks     4.492
+ Sleep for 4 slots
+Send seq# 21  @      601 ticks     4.695
+Send seq# 22  @      607 ticks     4.742
+ Sleep for 5 slots
+Send seq# 23  @      639 ticks     4.992
+Send seq# 24  @      645 ticks     5.039
+ Sleep for 13 slots
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 41217
+[INFO: Main      ] Link-layer address: 0012.4b00.129a.a101
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 41217 will be sending packet of size 12 Bytes
+Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+Send seq# 2  @       44 ticks     0.343
+ Sleep for 2 slots
+Send seq# 3  @       57 ticks     0.445
+Received neighbour discovery packet 440 with rssi 65509 from 32772
+Send seq# 4  @       63 ticks     0.492
+ Sleep for 14 slots
+Send seq# 5  @      153 ticks     1.195
+Send seq# 6  @      159 ticks     1.242
+ Sleep for 8 slots
+Send seq# 7  @      210 ticks     1.640
+Send seq# 8  @      217 ticks     1.695
+ Sleep for 2 slots
+Send seq# 9  @      229 ticks     1.789
+Send seq# 10  @      236 ticks     1.843
+ Sleep for 6 slots
+Send seq# 11  @      274 ticks     2.140
+Send seq# 12  @      281 ticks     2.195
+ Sleep for 3 slots
+Send seq# 13  @      300 ticks     2.343
+Send seq# 14  @      306 ticks     2.390
+ Sleep for 12 slots
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 41217
+[INFO: Main      ] Link-layer address: 0012.4b00.129a.a101
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 41217 will be sending packet of size 12 Bytes
+Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+Send seq# 2  @       44 ticks     0.343
+ Sleep for 11 slots
+Send seq# 3  @      114 ticks     0.890
+Received neighbour discovery packet Send seq# 4  @      121 ticks     0.945
+ Sleep for 16 slots
+451 with rssi 65509 from 32772
+Send seq# 5  @      223 ticks     1.742
+Send seq# 6  @      229 ticks     1.789
+ Sleep for 2 slots
+Send seq# 7  @      242 ticks     1.890
+Send seq# 8  @      249 ticks     1.945
+ Sleep for 9 slots
+Send seq# 9  @      306 ticks     2.390
+Send seq# 10  @      313 ticks     2.445
+ Sleep for 18 slots
+Send seq# 11  @      428 ticks     3.343
+Send seq# 12  @      434 ticks     3.390
+ Sleep for 9 slots
+Send seq# 13  @      492 ticks     3.843
+Received neighbour discovery packet 463 with rssi 65509 from 32772
+Received neighbour discovery packet 464 with rssi 65509 from 32772
+Send seq# 14  @      498 ticks     3.890
+ Sleep for 12 slots
+Send seq# 15  @      575 ticks     4.492
+Send seq# 16  @      581 ticks     4.539
+ Sleep for 15 slots
+Send seq# 17  @      677 ticks     5.289
+Received neighbour discovery packet 469 with rssi 65509 from 32772
+Send seq# 18  @      684 ticks     5.343
+ Sleep for 4 slots
+Send seq# 19  @      709 ticks     5.539
+Send seq# 20  @      716 ticks     5.593
+ Sleep for 6 slots
+Send seq# 21  @      754 ticks     5.890
+Send seq# 22  @      760 ticks     5.937
+ Sleep for 4 slots
+Send seq# 23  @      786 ticks     6.140
+Send seq# 24  @      792 ticks     6.187
+ Sleep for 8 slots
+Send seq# 25  @      844 ticks     6.593
+Send seq# 26  @      850 ticks     6.640
+ Sleep for 14 slots
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 41217
+[INFO: Main      ] Link-layer address: 0012.4b00.129a.a101
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 41217 will be sending packet of size 12 Bytes
+Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+Send seq# 2  @       44 ticks     0.343
+ Sleep for 10 slots
+Send seq# 3  @      108 ticks     0.843
+Received neighbour discovery packet Send seq# 4  @      114 ticks     0.890
+ Sleep for 13 slots
+536 with rssi 65509 from 32772
+Send seq# 5  @      197 ticks     1.539
+Send seq# 6  @      204 ticks     1.593
+ Sleep for 8 slots
+Send seq# 7  @      255 ticks     1.992
+Send seq# 8  @      261 ticks     2.039
+ Sleep for 8 slots
+[INFO: Main      ] Starting Contiki-NG-release/v4.8-603-g6504848f4
+[INFO: Main      ] - Routing: nullrouting
+[INFO: Main      ] - Net: nullnet
+[INFO: Main      ] - MAC: CSMA
+[INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[INFO: Main      ] - 802.15.4 Default channel: 26
+[INFO: Main      ] Node ID: 41217
+[INFO: Main      ] Link-layer address: 0012.4b00.129a.a101
+[INFO: CC26x0/CC13x0] TI CC2650 SensorTag
+[INFO: CC26x0/CC13x0]  RF: Channel 26, PANID 0xABCD
+CC2650 neighbour discovery
+Node 41217 will be sending packet of size 12 Bytes
+Received neighbour discovery packet Start clock 37 ticks, timestamp   0.289
+Send seq# 1  @       38 ticks     0.296
+550 with rssi 65511 from 32772
+Send seq# 2  @       44 ticks     0.343
+ Sleep for 0 slots
+Send seq# 3  @       45 ticks     0.351
+Send seq# 4  @       50 ticks     0.390
+ Sleep for 15 slots
+Send seq# 5  @      146 ticks     1.140
+Send seq# 6  @      153 ticks     1.195
+ Sleep for 14 slots
+Send seq# 7  @      242 ticks     1.890
+Send seq# 8  @      249 ticks     1.945
+ Sleep for 8 slots
+Send seq# 9  @      300 ticks     2.343
+Send seq# 10  @      306 ticks     2.390
+ Sleep for 13 slots
+Send seq# 11  @      389 ticks     3.039
+Send seq# 12  @      396 ticks     3.093
+ Sleep for 11 slots
+Send seq# 13  @      466 ticks     3.640
+Send seq# 14  @      472 ticks     3.687
+ Sleep for 1 slots
+Send seq# 15  @      479 ticks     3.742
+Send seq# 16  @      485 ticks     3.789
+ Sleep for 6 slots
+Send seq# 17  @      524 ticks     4.093
+Send seq# 18  @      530 ticks     4.140
+ Sleep for 17 slots
+Send seq# 19  @      639 ticks     4.992
+Send seq# 20  @      645 ticks     5.039
+ Sleep for 13 slots
+Send seq# 21  @      729 ticks     5.695
+Send seq# 22  @      735 ticks     5.742
+ Sleep for 10 slots
+Send seq# 23  @      799 ticks     6.242
+Send seq# 24  @      805 ticks     6.289
+ Sleep for 17 slots
+Send seq# 25  @      914 ticks     7.140
+Send seq# 26  @      920 ticks     7.187
+ Sleep for 15 slots
+Send seq# 27  @     1016 ticks     7.937
+Send seq# 28  @     1023 ticks     7.992
+ Sleep for 16 slots
+Send seq# 29  @     1125 ticks     8.789
+Send seq# 30  @     1132 ticks     8.843
+ Sleep for 9 slots
+Send seq# 31  @     1189 ticks     9.289
+Received neighbour discovery packet 575 with rssi 65509 from 32772
+Send seq# 32  @     1196 ticks     9.343
+ Sleep for 2 slots
+Send seq# 33  @     1208 ticks     9.437
+Received neighbour discovery packet 577 with rssi 65509 from 32772
+Send seq# 34  @     1215 ticks     9.492
+ Sleep for 17 slots
